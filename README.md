@@ -1,1 +1,1 @@
-https://github.com/MinumiEl/ono-tebe-nado-fd#
+https://github.com/MinumiEl/ono-tebe-nado-fd
