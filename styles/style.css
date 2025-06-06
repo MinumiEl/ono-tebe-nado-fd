@@ -18,11 +18,13 @@
     padding-bottom: 6px;
     padding-left: 51px;
 }
-.header_menu-link{
+
+.header_menu-link {
     text-underline-offset: 4px;
     text-decoration-thickness: 1px;
     padding-bottom: 5px;
 }
+
 .header_menu-item.header_main_not_underlined {
     list-style: none;
 }
@@ -337,9 +339,11 @@ footer {
     font-size: 18px;
     line-height: 21px;
 }
-.footer_main_not_underlined{
+
+.footer_main_not_underlined {
     list-style: none;
 }
+
 .footer__menu-link {
     text-decoration: underline;
     text-underline-offset: 4px;
