@@ -3,7 +3,7 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     /*height: 293px;*/
-    padding: 104px 50px 91px;
+    padding: 98px 50px 91px;
     color: #000000;
     font-weight: normal;
     font-size: 18px;
@@ -321,6 +321,7 @@ footer {
     display: grid;
     grid-template-columns:repeat(3, 1fr);
     justify-items: center;
+    padding-bottom: 82px;
 }
 
 
