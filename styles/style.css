@@ -3,7 +3,7 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     /*height: 293px;*/
-    padding: 104px 40px 91px;
+    padding: 104px 50px 91px;
     color: #000000;
     font-weight: normal;
     font-size: 18px;
@@ -15,7 +15,6 @@
     gap: 33px;
     white-space: nowrap;
     padding-bottom: 7px;
-    margin-left: 10px;
 
 }
 
@@ -52,7 +51,6 @@
 }
 
 .header_info {
-    margin-right: 10px;
     margin-bottom: 4px;
     max-width: 240px;
     justify-self: end;
@@ -72,7 +70,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    /*padding: 165px 50px 50px ;*/
+    /*padding: 165px 50px 106px 50px ;*/
     z-index: 0;
 
 
